@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain and System Programming
 - 🌱 I’m currently learning Haskell (Plutus) and Rust (WebAssembly)
 - 💞️ I’m looking to collaborate on building cool stuff on the blockchain
-- 📫 How to reach me danielonyesoh@gmail.com
+- 📫 How to reach me danielonyesoh@gmail.com or @Ch1n3du3 on twitter
 
 <!---
 Ch1n3du/Ch1n3du is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

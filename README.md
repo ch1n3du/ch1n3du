@@ -2,8 +2,6 @@
 
 👨🏾‍💻 I'm Chinedu (he/him) and I'm a third-year Computer Science major.
 
-I love programming and music
-
 ## 🌱 Currently Learning
 
 - 📜 Smart Contract Development

@@ -1,0 +1,12 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "pico adventures"
+theme = "PaperMod"
+
+[menu]
+[[menu.main]]
+identifier = "Home"
+name = "Home"
+url = "/home"
+weight = -100
+class = ""

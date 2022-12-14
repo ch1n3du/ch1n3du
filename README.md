@@ -4,9 +4,8 @@
 
 ## 🌱 Currently Learning
 
-- 📜 Smart Contract Development
-- ⛓️ Blockchains and Distributed Systems
 - ⚡ Compiler development and Language Design
+- ⚙️ Systems Programming
 - 🎮 Game Development
 
 ## 🛠️ Languages and Tools

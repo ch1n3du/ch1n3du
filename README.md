@@ -1,10 +1,11 @@
 # Hi there 👋, I'm Ch1n3du
 
-👨🏾‍💻 I'm Chinedu (he/him) and I'm a third-year Computer Science major.
+👨🏿‍💻 I'm Chinedu (he/him) and I'm a third-year Computer Science major.
 
 ## 🌱 Currently Learning
 
-- 🤖 AI and Neuromorphic Computing
+- 🤖 Machine Learning
+- 🧠 Neuromorphic Computing
 - ⚡ Compiler development and Language Design
 - ⚙️ Systems Programming
 

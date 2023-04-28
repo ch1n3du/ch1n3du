@@ -4,13 +4,14 @@
 
 ## 🌱 Currently Learning
 
+- 🤖 AI and Neuromorphic Computing
 - ⚡ Compiler development and Language Design
 - ⚙️ Systems Programming
-- 🎮 Game Development
 
 ## 🛠️ Languages and Tools
 
 - Rust
+- Python
 - TypeScript
 - Haskell
 - Git

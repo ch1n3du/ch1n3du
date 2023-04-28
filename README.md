@@ -2,7 +2,7 @@
 
 👨🏿‍💻 I'm Chinedu (he/him) and I'm a third-year Computer Science major.
 
-## 🌱 Currently Learning
+## 🌱 Currently Interested in
 
 - 🤖 Machine Learning
 - 🧠 Neuromorphic Computing

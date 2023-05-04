@@ -2,6 +2,9 @@
 
 👨🏿‍💻 I'm Chinedu (he/him) and I'm a third-year Computer Science major.
 
+**Interests:** ML, Neuromorphic Computing, Compilers
+**Tools:** rust, python typescript
+
 ## 🌱 Interests
 
 - 🤖 Machine Learning

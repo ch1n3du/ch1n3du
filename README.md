@@ -7,7 +7,7 @@
 - 🤖 Machine Learning
 - 🧠 Neuromorphic Computing
 - ⚡ Compiler development and Language Design
--  Systems Programming
+- ⚙️ Systems Programming
 
 ## 🛠️ Languages and Tools
 
